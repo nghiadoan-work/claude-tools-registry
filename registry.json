@@ -1,9 +1,22 @@
 {
   "version": "1.0.0",
-  "updated_at": "2024-11-14T12:00:00Z",
+  "updated_at": "2025-11-15T18:45:00Z",
   "tools": {
     "agent": [],
     "command": [],
-    "skill": []
+    "skill": [
+      {
+        "name": "github-api",
+        "version": "1.0.0",
+        "description": "GitHub API patterns and best practices for cntm development",
+        "author": "nghiadt",
+        "tags": ["github", "api", "development", "integration"],
+        "download_url": "https://github.com/nghiadoan-work/claude-tools-registry/releases/download/v1.0.0/github-api-1.0.0.tar.gz",
+        "size": 3321,
+        "integrity": "sha256:f98b3351a9ece3cac672b9cbb502af4013cee3a91a9a20fe346e7748509e55f3",
+        "created_at": "2025-11-15T18:45:00Z",
+        "updated_at": "2025-11-15T18:45:00Z"
+      }
+    ]
   }
 }
