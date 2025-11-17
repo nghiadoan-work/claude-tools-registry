@@ -1,0 +1,11 @@
+{
+  "author": "Nghia",
+  "description": "nextjs feature clean up",
+  "version": "1.0.0",
+  "changelog": {
+    "1.0.0": "Release 1.0.0"
+  },
+  "custom": {
+    "type": "skill"
+  }
+}
